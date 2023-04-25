@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(197, 205, 212);
+    
+}
+.container{
+    
+    margin: 50px;
+    padding: 50px;
+   
+    
+}
+#box{
+ height: 30px;
+ border-radius: 10px;
+}
+.button{
+    background-color: rgb(66, 233, 164);
+    cursor: pointer;
+    height: 30px;
+    border-radius: 10px;
+}
